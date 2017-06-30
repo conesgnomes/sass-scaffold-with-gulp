@@ -1,9 +1,9 @@
 {
-  "name": "Sample Project",
-  "description": "Yelp API fun stuff",
+  "name": "project-scaffold",
+  "description": "clean directory for starting new projects",
   "main": "index.js",
   "license": "ISC",
-  "homepage": "https://github.com/avocadobravado/beer-dictionary",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
