@@ -3,7 +3,7 @@
   "description": "clean directory for starting new projects",
   "main": "index.js",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/conesgnomes/project-scaffold",
   "ignore": [
     "**/.*",
     "node_modules",
